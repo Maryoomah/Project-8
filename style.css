@@ -1,0 +1,22 @@
+body {
+  background-color: antiquewhite;
+}
+.dictionary {
+  width: 100%;
+  padding: 5px 0px 5px 0px;
+  background-color: purple;
+  color: whitesmoke;
+  text-align: center;
+  margin-bottom: 50px;
+}
+#wordInput {
+  padding: 8px;
+  width: 500px;
+  margin-bottom: 100px;
+}
+#searchButton {
+  cursor: pointer;
+  background-color: blueviolet;
+  color: white;
+  padding: 5px;
+}
